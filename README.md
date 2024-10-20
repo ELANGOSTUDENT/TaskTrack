@@ -1,0 +1,1 @@
+I'm building a task time tracking project using JavaScript to  manage the time spent on various tasks. The application will provide a user-friendly interface for starting, and stopping timers for individual tasks, along with a summary of time spent.
